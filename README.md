@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberneticBeetles 
 - 👀 I’m interested in Games, Computer Engineering, and Computer Science 
-- 🌱 I’m currently learning how to code and 
+- 🌱 I’m currently learning how to code 
 - 💞️ I’m looking to collaborate if you love Pizza 
 - 📫 How to reach me Gamejolt, Steam, and Itch.io
 
